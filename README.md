@@ -2,9 +2,8 @@
 
 Este es un proyecto de CRUD sencillo para gestionar clientes y pedidos pendientes realizado en Python.
 
-## 👥 Autores
-- [Tu Nombre]
-- [Nombre de tu pareja]
+## 👥 Autor
+- [Jorge Alejandro Saldeño Miranda]
 
 ## 🛠️ Tecnologías utilizadas
 - **Lenguaje:** Python 3.10+
